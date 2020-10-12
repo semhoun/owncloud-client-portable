@@ -1,9 +1,6 @@
 # ownCloud Client Portable
 This is a portable ownCloud client that runs on Windows without administrator privileges.
 
-# For the newest version:
-Check my [**Nextcloud Client Portable**](https://github.com/naderi/nextcloud-client-portable) repository!
-
 ## Used software:
 [**7-Zip**](http://www.7-zip.org/) is a file archiver with a high compression ratio.
 
